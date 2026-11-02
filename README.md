@@ -27,7 +27,7 @@ I am a passionate **Full-Stack and Android Developer** based in **Nepal** 🇳�
 
 I enjoy bridging the gap between elegant user interfaces and robust, scalable backend architectures. Whether it's diagnosing high-precision network metrics in native Android apps, engineering interactive web platforms, or designing relational databases, I build with performance, clarity, and user experience in mind.
 
-- 🔭 **Current Focus:** Engineering native & hybrid mobile applications (**SpeedWatch**) and full-stack web platforms (**Traffic Rule Awareness System**).
+- 🔭 **Current Focus:** Engineering native & hybrid mobile applications, game development and full-stack web platforms (**Traffic Rule Awareness System**).
 - 💡 **Passion Areas:** Mobile Performance Optimization, Network Diagnostics, Clean Architecture, Reactive State Management, and UX Design.
 - 🎓 **Education:** BIM (Bachelor of Information Management), Tribhuvan University.
 - 🌱 **Currently Exploring:** Advanced Kotlin Coroutines/Flow, Jetpack Compose, Distributed Microservices & Cloud Native tools.
@@ -92,6 +92,19 @@ I enjoy bridging the gap between elegant user interfaces and robust, scalable ba
 ### 🌟 Featured Highlights & Projects
 
 <table>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h4>🚨 <a href="https://github.com/Sameer769dev/CrisisGrid">CrisisGrid — Autonomous Disaster Triage & Emergency Dispatch Agent</a></h4>
+      <p>Built for the <strong>Meta Global AI Developer Hackathon 2026</strong>. Multimodal autonomous disaster triage and emergency dispatch system built on 5 Meta frontier models (<code>sam-3.1</code>, <code>muse-voice-transcribe-1.0</code>, <code>muse-spark-1.3</code>, <code>muse-wonder-1.0</code>, <code>muse-image-1.0</code>) with pure deterministic Python verification for safe evacuation corridors and drone/helicopter landing zones.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Meta_AI-0064E0?style=flat-square&logo=meta&logoColor=white" alt="Meta AI" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📱 <a href="https://github.com/Sameer769dev/speedwatch-android">SpeedWatch (Android)</a></h4>
